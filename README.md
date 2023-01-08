@@ -1,3 +1,3 @@
 # Description
 
-Hello world this is the code provided to search exoplanets in our universe
+This is a project for searching exoplanets in G-Type stars in our universe
